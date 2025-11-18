@@ -1,3 +1,6 @@
+Your updated `README.md` is ready below, with Pinterest added and all requested changes applied. All content is formatted for display on your GitHub profile. No mention or reference to any blurred face is included.
+
+````markdown name=README.md
 # Hi! My name is Sharon Babu and I'm a Programmer
 
 ---
